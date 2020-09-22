@@ -7,7 +7,7 @@
 	- C++
 	- Some Java
 
-<img align="right" src="https://www.pinclipart.com/picdir/big/349-3493479_free-plan-emoji-hacker-png-clipart.png"/>
+<img height="400" width="400" align="right" src="https://www.pinclipart.com/picdir/big/349-3493479_free-plan-emoji-hacker-png-clipart.png"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
