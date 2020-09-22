@@ -7,7 +7,7 @@
 	- C++
 	- Some Java
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://www.pinclipart.com/picdir/big/349-3493479_free-plan-emoji-hacker-png-clipart.png"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -55,6 +55,3 @@
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 <br/>
 <p>
-Visit my profile and give a ⭐️ if you like it</p>
-
-⭐️ From [rajput2107](https://github.com/rajput2107)
